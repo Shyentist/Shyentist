@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-My name is Pasquale Buonomo, but people mess it up all the time, so you can either try your luck or call me **Pico**. I am a human, I have many interests, and I dislike being labeled after just one of them at a time. For the sake of introduction, I like to describe myself as a marine biologist turned data scientist.
+My name is Pasquale Buonomo, but people mess it up all the time, so you can either try your luck or call me **Pico**. I am a human, I have many interests, and I dislike being labeled after just one of them at a time. For the sake of introduction, I prefer describing myself as a marine biologist turned data scientist.
 
 <!--
 **Shyentist/Shyentist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-### I am
+### I am...
 
-- <span>&#128187;</span> Proficient in: R, HTML, CSS, SQL
+- <span>&#128187;</span> Proficient in: R, HTML, CSS, SQL.
 - <span>&#127907;</span> Currently building and maintaining [fishRman](https://github.com/Shyentist/fish-r-man), a research dashboard for Global Fishing Watch data on fishing effort. 
 - <span>&#128218;</span> Looking to collaborate on scientific research on fisheries, conservation, ecology, and much more.
 - <span>&#127760;</span> Looking for help with a website about Open-Source for Marine and Ocean Sciences. **Any** help.
