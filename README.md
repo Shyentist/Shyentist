@@ -18,5 +18,5 @@ Here are some ideas to get you started:-->
 ## <span>&#128202;</span> GitHub Stats
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyentist&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyentist&theme=nord)-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shyentist&show_icons=true&theme=nord" style="height: 190px; margin:5px;"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyentist&theme=nord" style="height: 190px; margin:5px;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shyentist&show_icons=true&theme=nord" style="height: 190px; padding:10px;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyentist&theme=nord" style="height: 190px; padding:10px;"/>
