@@ -20,6 +20,3 @@ Here are some ideas to get you started:-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyentist&theme=nord)-->
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Shyentist&show_icons=true&theme=nord" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyentist&theme=nord" />
-
-
-
