@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - <span>&#128104;&#8205;&#127891;</span> Managing the research group [Open-Source for Marine and Ocean Sciences](https://osmos.xyz). Coder or not, feel free to join us.
 - <span>&#128218;</span> Looking to collaborate on scientific research on fisheries, conservation, ecology, and much more.
 - <span>&#128050;</span> A D&D and Pathfinder player and Master. Let's talk!
-- 📫 Reachable via: E-mail (pasqualebuonomo@hotmail.it) | [Twitter](https://twitter.com/Shyentist_Pico) | [Instagram](https://www.instagram.com/pico_shyentist/)  | [Linkedin](https://www.linkedin.com/in/pasqualebuonomo/)
+- 📫 Reachable via: E-mail (pasqualebuonomo@hotmail.it) | [Twitter](https://twitter.com/Shyentist_Pico) | [Reddit](https://www.reddit.com/user/Pico_Shyentist) | [Instagram](https://www.instagram.com/pico_shyentist/)  | [Linkedin](https://www.linkedin.com/in/pasqualebuonomo/)
 
 ## <span>&#128202;</span> GitHub Stats
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyentist&show_icons=true&theme=nord)
