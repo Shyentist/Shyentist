@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 ### I am...
 
 - <span>&#128187;</span> Proficient in: R, HTML, CSS, JS, SQL.
-- <span>&#127907;</span> Maintaining [fishRman](https://github.com/Shyentist/fish-r-man), a research dashboard for Global Fishing Watch data on fishing effort. 
+- <span>&#127907;</span> Maintaining [fishRman](https://github.com/Shyentist/fish-r-man), an R package for fisheries scientists.
 - <span>&#128104;&#8205;&#127891;</span> Managing the research group [Open-Source for Marine and Ocean Sciences](https://osmos.xyz). Coder or not, feel free to join us.
 - <span>&#128218;</span> Looking to collaborate on scientific research on fisheries, conservation, ecology, and much more.
 - <span>&#128050;</span> A D&D and Pathfinder player and Master. Let's talk!
