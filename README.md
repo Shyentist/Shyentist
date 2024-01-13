@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Pasquale Buonomo, but people mess it up all the time, so you can either try your luck or call me **Pico**. I am a human, I have many interests, and I dislike being labeled after just one of them at a time. For the sake of introduction, I prefer describing myself as a marine biologist turned data scientist.
+My name is Pasquale Buonomo, but people mess it up all the time, so you can either try your luck or call me **Pico**. I am a human, I have many interests, and I dislike being labeled after just one of them at a time. For the sake of introduction, I prefer describing myself as a marine biologist turned programmer.
 
 <!--
 **Shyentist/Shyentist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
