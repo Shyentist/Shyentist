@@ -10,7 +10,6 @@ Here are some ideas to get you started:-->
 
 - <span>&#128187;</span> Proficient in: R, HTML, CSS, JavaScript, TypeScript, SQL.
 - <span>&#127907;</span> Maintaining [fishRman](https://github.com/Shyentist/fish-r-man), an R package for fisheries scientists.
-- <span>&#128104;&#8205;&#127891;</span> Managing the research group [Open-Source for Marine and Ocean Sciences](https://osmos.xyz). Coder or not, feel free to join us.
 - <span>&#128218;</span> Looking to collaborate on scientific research on fisheries, conservation, ecology, and much more.
-- <span>&#128050;</span> A D&D and Pathfinder player and Master. Let's talk!
-- 📫 Reachable via: E-mail (pasqualebuonomo@hotmail.it) | [Reddit](https://www.reddit.com/user/Pico_Shyentist) | [Instagram](https://www.instagram.com/pico_shyentist/)  | [Linkedin](https://www.linkedin.com/in/pasqualebuonomo/)
+- <span>&#128050;</span> A D&D, Pathfinder, and DURF player and Master. Let's talk!
+- 📫 Reachable via: E-mail (pasqualebuonomo@hotmail.it) | [Reddit](https://www.reddit.com/user/Pico_Shyentist) | [Linkedin](https://www.linkedin.com/in/pasqualebuonomo/)
