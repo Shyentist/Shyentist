@@ -12,4 +12,3 @@ Here are some ideas to get you started:-->
 - <span>&#127907;</span> Maintaining [fishRman](https://github.com/Shyentist/fish-r-man), an R package for fisheries scientists.
 - <span>&#128218;</span> Looking to collaborate on scientific research on fisheries, conservation, ecology, and much more.
 - <span>&#128050;</span> A D&D, Pathfinder, and DURF player and Master. Let's talk!
-- 📫 Reachable via: E-mail (pasqualebuonomo@hotmail.it) | [Reddit](https://www.reddit.com/user/Pico_Shyentist) | [Linkedin](https://www.linkedin.com/in/pasqualebuonomo/)
