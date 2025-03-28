@@ -9,6 +9,5 @@ Here are some ideas to get you started:-->
 ### I am...
 
 - <span>&#128187;</span> Proficient in: R, HTML, CSS, JavaScript, TypeScript, SQL.
-- <span>&#127907;</span> Maintaining [fishRman](https://github.com/Shyentist/fish-r-man), an R package for fisheries scientists.
 - <span>&#128218;</span> Looking to collaborate on scientific research on fisheries, conservation, ecology, and much more.
 - <span>&#128050;</span> A D&D, Pathfinder, and DURF player and Master. Let's talk!
